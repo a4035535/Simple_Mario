@@ -1,0 +1,17 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: E:/vivado/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 7d2ee133108e4649b33ed0fecb8b6cc8 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot toptop_behav xil_defaultlib.toptop xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'key' [E:/Workplace/vivado file/Mario/Mario.srcs/sim_1/new/first.v:29]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.div_clk
+Compiling module xil_defaultlib.set_area
+Compiling module xil_defaultlib.show_blocks
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.toptop
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot toptop_behav

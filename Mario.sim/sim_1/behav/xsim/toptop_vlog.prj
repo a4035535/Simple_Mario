@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Mario.srcs/sources_1/new/div_clk.v" \
+"../../../../Mario.srcs/sources_1/new/set_area.v" \
+"../../../../Mario.srcs/sources_1/new/show_blocks.v" \
+"../../../../Mario.srcs/sources_1/new/top.v" \
+"../../../../Mario.srcs/sim_1/new/first.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

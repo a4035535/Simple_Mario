@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"toptop_func_synth.v" \
+"../../../../../Mario.srcs/sim_1/new/first.v" \
+
+# Do not sort compile order
+nosort
