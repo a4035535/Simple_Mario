@@ -18,4 +18,8 @@ The interactive part includes:
 
 Final Results:
 
+![hardware](readmePic/Hardware.jpg)
+
+![result](readmePic/result.png)
+
 
